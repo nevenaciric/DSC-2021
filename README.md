@@ -1,5 +1,10 @@
 # DSC 2021 - Preconference Tech Tutorial
 
+<p align="center">
+  <img src="./dsc_logo.png" width="1000">
+</p>
+
+
 ## Working With Text Data In Machine Learning
 
 ## Abstract:
